@@ -1,0 +1,6 @@
+C:\RRJ\WorkFolder\TEST\classifyingTriangles\classifyingTriangles.Component\bin\Debug\classifyingTriangles.Component.dll
+C:\RRJ\WorkFolder\TEST\classifyingTriangles\classifyingTriangles.Component\bin\Debug\classifyingTriangles.Component.pdb
+C:\RRJ\WorkFolder\TEST\classifyingTriangles\classifyingTriangles.Component\obj\Debug\classifyingTriangles.Component.csproj.AssemblyReference.cache
+C:\RRJ\WorkFolder\TEST\classifyingTriangles\classifyingTriangles.Component\obj\Debug\classifyingTriangles.Component.csproj.CoreCompileInputs.cache
+C:\RRJ\WorkFolder\TEST\classifyingTriangles\classifyingTriangles.Component\obj\Debug\classifyingTriangles.Component.dll
+C:\RRJ\WorkFolder\TEST\classifyingTriangles\classifyingTriangles.Component\obj\Debug\classifyingTriangles.Component.pdb
